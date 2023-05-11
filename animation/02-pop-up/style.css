@@ -43,6 +43,7 @@ button {
   transition: transform 0.3s ease-in, opacity 0.3s ease;
   transform: translate(-50%, -150%);
 }
+
 .popup-modal p {
   margin-bottom: 24px
 }
